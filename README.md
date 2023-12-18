@@ -7,7 +7,7 @@ Web Developer Fullstack
 I've been coding since 2022 and i'm loving it.
 
 *   🌍  I'm based in France
-*   🧠  I'm learning Kotlin
+*   🧠  I'm learning Go
   
 ### Skills 
 <p align="left">
